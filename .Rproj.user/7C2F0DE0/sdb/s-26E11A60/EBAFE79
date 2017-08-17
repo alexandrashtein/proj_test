@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(ggplot2)",
+    "created" : 1502956821164.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2346919905",
+    "id" : "EBAFE79",
+    "lastKnownWriteTime" : 1502956840,
+    "last_content_update" : 1502956840133,
+    "path" : "N:/Projects/P028.IL.Israel.MAIAC.PM.V2/test/proj_try/plot.R",
+    "project_path" : "plot.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
